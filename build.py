@@ -4,7 +4,7 @@
 import html, re
 from pathlib import Path
 
-CONTACT = "〔連絡先メールアドレス〕"
+CONTACT = "onlinemayuge@gmail.com"
 SRC = Path.home() / "Developer/dogasaiseiiPad/store_assets/プライバシーポリシー.md"
 
 STYLE = """
