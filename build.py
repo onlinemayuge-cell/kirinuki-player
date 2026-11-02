@@ -13,7 +13,7 @@ STYLE = """
 *{box-sizing:border-box}body{margin:0;background:var(--bg);color:var(--text);font:16px/1.8 -apple-system,BlinkMacSystemFont,"Hiragino Sans","Hiragino Kaku Gothic ProN",sans-serif}
 header{background:linear-gradient(135deg,#101ab4,#9b16fc);color:#fff;padding:36px 16px 28px;text-align:center}
 header img{width:84px;height:84px;border-radius:19px;box-shadow:0 6px 20px rgba(0,0,0,.25)}
-header h1{margin:12px 0 4px;font-size:24px}header p{margin:0;opacity:.85;font-size:14px}
+header h1{margin:12px 0 4px;font-size:24px}header p{margin:0;opacity:.9;font-size:14px;color:#fff}
 main{max-width:720px;margin:0 auto;padding:20px 16px 48px}
 section{background:var(--card);border:1px solid var(--line);border-radius:14px;padding:4px 20px 12px;margin:16px 0}
 h2{font-size:18px;margin:18px 0 6px}h3{font-size:16px;margin:16px 0 4px}
